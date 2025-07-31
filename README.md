@@ -14,8 +14,12 @@ This solution empowers grassroots farmers by bridging information gaps, reducing
 
 ### The primary end users for your AI-powered Smart Farming Advice agent are:
 >Small-Scale Farmers: The main beneficiaries, these users receive actionable, localized advice in their native language. The agent helps them make informed decisions about crop selection, soil and pest management, and access to real-time market prices, directly improving their yield and income.
+
 >Agricultural Extension Officers: These field workers and advisors use the AI agent to supplement their outreach programs, provide up-to-date recommendations, and address farmers’ queries more efficiently across regions or villages.
+
 >Farmer Cooperatives and Self-Help Groups: Organizations and groups can use the platform collectively for planning, resource pooling, and price negotiations, enhancing their decision-making and market competitiveness.
+
 >Agri-Entrepreneurs and Input Suppliers: Businesses that provide seeds, fertilizers, pest control products, and farm equipment leverage the agent’s insights for better customer support and supply planning.
+
 >Local Governments and Policy Makers: Decision-makers access aggregated insights and trends from the agent’s usage data, helping them plan more effective interventions, subsidies, or regional advisories. The focus is on empowering underserved and digitally excluded communities, making advanced agri-advisory accessible, transparent, and locally relevant—right down to the grassroots.
 ---
